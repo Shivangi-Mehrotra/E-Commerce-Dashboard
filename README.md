@@ -1,15 +1,19 @@
-# E-Commerce Sales Dashboard (Excel)
+# 📊 E-Commerce Sales Dashboard (Excel)
 
 ## 📌 Project Overview
-Developed an interactive E-Commerce Sales Dashboard in Microsoft Excel to analyze revenue, profit trends, and regional sales performance. The dashboard enables quick business insights using KPI cards, charts, and filters.
+Developed an interactive E-Commerce Sales Dashboard in Microsoft Excel to analyze sales performance, profit trends, and regional distribution. The dashboard helps identify business growth patterns and supports data-driven decision-making.
+
+---
 
 ## 🛠 Tools & Techniques Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers / Filters
-- Data Cleaning & Formatting
+- Data Cleaning & Transformation
 - KPI Card Design
+
+---
 
 ## 📊 Key Metrics Tracked
 - Total Sales
@@ -18,20 +22,33 @@ Developed an interactive E-Commerce Sales Dashboard in Microsoft Excel to analyz
 - Monthly Profit Trend
 - Sales by Region
 
-## 📈 Dashboard Features
-- Interactive filters for category/region selection
-- Sales & Profit comparison by month
-- Regional performance analysis
-- Visually structured KPI summary section
+---
 
-## 🔍 Insights Derived
-- Identified high-performing months in terms of sales.
-- Compared profit margins across regions.
-- Analyzed revenue contribution by region.
-
-## 📷 Screenshot
-Dashboard screenshot included in this repository.
+## 🔍 Business Insights
+- Identified peak revenue months.
+- Compared profit performance across regions.
+- Analyzed monthly sales vs profit relationship.
+- Evaluated regional contribution to overall revenue.
 
 ---
 
-This project demonstrates my ability to build business-focused dashboards and translate raw data into actionable insights.
+## 📷 Dashboard Preview
+
+### 🔹 Overall KPI & Monthly Trend View
+![Dashboard 1](dashboard1.png)
+
+### 🔹 Sales by Region Analysis
+![Dashboard 2](dashboard2.png)
+
+### 🔹 Profit Trend Overview
+![Dashboard 3](dashboard3.png)
+
+### 🔹 Regional Comparison View
+![Dashboard 4](dashboard4.png)
+
+### 🔹 Filtered / Interactive View
+![Dashboard 5](dashboard5.png)
+
+---
+
+This project demonstrates my ability to design business-focused dashboards and transform raw sales data into actionable insights.
